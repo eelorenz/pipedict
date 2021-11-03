@@ -6,7 +6,7 @@ to your browser dictiionary, peace is restored.
 
 Instructions for use:
 
-Firefox
+##Firefox
 Custom words kept in c:\Users\<username>\AppData\Roaming\Mozilla\Firefox\<randomchars>.default\persdict.dat. If it doesn't exist, rename pipedict.txt 
 and drop the file here. If it does exist, append the list into it with your favorite text editor.
 Alternate file locations:
