@@ -154,9 +154,11 @@ Barling
 Beraldi
 Bjarne
 Brebbia
+Bretagne
 BriarWorks
 Butz-Choquin
 Caminetto
+Cannoy
 Castello
 Cavicchi
 Celius
@@ -165,6 +167,7 @@ Charatan
 Chonowitsch
 Comoy's
 Croci
+Dagner
 Danpipes
 Duca
 Dunhill
@@ -183,11 +186,15 @@ Il
 Ivarsson
 Jacono
 Jacopo
+Jobert
 Jobey
 Johs
 Joura
+Kaywoodie
 L'anatra
+Ligne
 Lorenzetti
+MacQueen
 Manz
 Mastro
 Matzhold
@@ -215,6 +222,8 @@ Skovgaard
 Stanwell
 Stokkebye
 Tinsky
+Trypis
 Tsuge
 Vauen
+Vesz
 Viprati
