@@ -112,6 +112,7 @@ Amorelli
 Armellini
 Ascorti
 Askwith
+Axmacher
 Baldi
 Baldo
 Balleby
@@ -142,6 +143,7 @@ Genod
 Geppetto
 Grabow
 Heding
+Herbaugh
 Holm
 Ikebana
 Il
@@ -153,6 +155,7 @@ Johs
 Joura
 L'anatra
 Lorenzetti
+Manz
 Mastro
 Matzhold
 Moretti
@@ -164,10 +167,12 @@ Nording
 Paja
 Pascia
 Paykoc
+Piersel
 Pipa
 Preben
 Radice
 Ranier
+Rinaldo
 Ropp
 Rossi
 Rousch
