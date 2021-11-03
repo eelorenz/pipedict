@@ -15,12 +15,12 @@ Mac
 Linux
  ~/.mozilla/firefox/xxxxxxxx.default/
  
-Internet Explorer
+## Internet Explorer
 Open C:\Users\Username\AppData\Roaming\Microsoft\Spelling\ and find the language folder for whichever language you use. If default.dic doesn't exist,
 rename pipedict.txt and drop it here. If it does exist, open it in your favorite text editor and add the contents of pipedict.txt.
 
-Edge
+## Edge
 Same as Internet Explorer
 
-Chrome
+## Chrome
 Appears to only allow adding a single word at a time. :-(
