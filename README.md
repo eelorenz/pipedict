@@ -2,7 +2,7 @@
 Browser dictionary of pipe smoking related terms
 
 Purpose: When participating in pipe forums, it's annoying to constantly have hobby-specific terms flagged as misspelled. By adding the following terms 
-to your browser dictiionary, peace is restored.
+to your browser dictionary, peace is restored.
 
 Instructions for use:
 
